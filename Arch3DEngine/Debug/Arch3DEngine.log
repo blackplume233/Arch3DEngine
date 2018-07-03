@@ -1,0 +1,9 @@
+﻿  t3dlib1.cpp
+  t3dlib2.cpp
+  t3dlib4.cpp
+  t3dlib5.cpp
+  t3dlib6.cpp
+  WinMain.cpp
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  正在生成代码...
+  Arch3DEngine.vcxproj -> C:\E_Disk\Arch3DEngine\Debug\Arch3DEngine.exe

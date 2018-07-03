@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{6d102926-b238-43e2-bd0c-26a5d1bb7c15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="T3D">
+      <UniqueIdentifier>{533ccb0b-0e23-4b89-aa0c-25666d446cf6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\WinMain.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\T3D\t3dlib1.cpp">
+      <Filter>T3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\T3D\t3dlib2.cpp">
+      <Filter>T3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\T3D\t3dlib4.cpp">
+      <Filter>T3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\T3D\t3dlib5.cpp">
+      <Filter>T3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\T3D\t3dlib6.cpp">
+      <Filter>T3D</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\T3D\CommonHeader.h">
+      <Filter>T3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\T3D\t3dlib1.h">
+      <Filter>T3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\T3D\t3dlib2.h">
+      <Filter>T3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\T3D\t3dlib4.h">
+      <Filter>T3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\T3D\t3dlib5.h">
+      <Filter>T3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\T3D\t3dlib6.h">
+      <Filter>T3D</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
